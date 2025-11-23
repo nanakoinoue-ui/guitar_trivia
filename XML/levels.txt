@@ -1,0 +1,6 @@
+LEVELS
+
+1-4 players
+5 technique
+6 equipment
+7 hard stuff
